@@ -28,10 +28,9 @@ run_analysis.R R script should do the following:
 
 Please use the following steps to reproduce the results:
 
-1. Open the R script run_analysis.r using RStudio
-2. Change the parameter of the setwd function call to your working directory/folder
-3. Please make sure UCI HAR Dataset and run_analysis.R in the same parent folder
+1. Open the R script run_analysis.r using RStudio.
+2. Change the parameter of the setwd function call to your working directory.
+3. Please make sure both UCI HAR Dataset and run_analysis.R copied to the same folder.
 4. Run the R script run_analysis.R using source("run_analysis.R") command in RStudio.
-5. "tidy_data.txt"" file contains result of tidy data set wiil be created.
+5. "tidy_data.txt"" file contains result of tidy data set will be created.
 
-.
